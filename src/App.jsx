@@ -38,7 +38,7 @@ export function App(props) {
           
         </div>
 
-        {/* Bhagavati Mata Temple Section */}
+        
         <div className="flex items-center bg-sky-50 mt-10">
           <div className="w-1/2 pr-4">
             <h3 className="text-xl font-semibold">Bhagavati Mata Temple</h3>
@@ -87,8 +87,4 @@ export function App(props) {
     );
   }
 
-
-
-
-  
   export default App;
